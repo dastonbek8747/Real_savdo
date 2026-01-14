@@ -1,0 +1,24 @@
+2026-01-14 11:39:37,348 - WARNING - 🟢 REAL REJIM - Live Trading!
+2026-01-14 11:39:37,915 - ERROR - ❌ Binance ulanish xatosi: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-01-14 11:39:37,916 - ERROR - ❌ Fatal xato: Exchange xatosi: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2026-01-14 11:39:37,917 - INFO - ✅ Dastur to'liq to'xtadi
+2026-01-14 11:47:57,122 - INFO - 🔶 DEMO REJIM - Testnet
+2026-01-14 11:47:59,959 - INFO - ✅ Binance ulandi! USDT: $873.21
+2026-01-14 11:48:00,300 - INFO - 🤖 Bot tayyor: BTC/USDT 1m Scalping
+2026-01-14 11:48:00,300 - INFO - 💰 Boshlang'ich balans: $873.21
+2026-01-14 11:48:00,300 - INFO - ============================================================
+2026-01-14 11:48:00,301 - INFO - 🚀 PROFESSIONAL M1 SCALPING BOT
+2026-01-14 11:48:00,301 - INFO - ============================================================
+2026-01-14 11:48:00,301 - INFO - 📍 PID: 14125
+2026-01-14 11:48:00,301 - INFO - 💰 Symbol: BTC/USDT
+2026-01-14 11:48:00,301 - INFO - ⏰ Timeframe: 1m
+2026-01-14 11:48:00,301 - INFO - 💵 Initial Balance: $873.21
+2026-01-14 11:48:00,301 - INFO - 🎯 Risk per trade: 0.7%
+2026-01-14 11:48:00,301 - INFO - 📊 R:R Ratio: 1:2.0
+2026-01-14 11:48:00,301 - INFO - 🛡️ Max Daily DD: 3.0%
+2026-01-14 11:48:00,301 - INFO - 🛡️ Max Total DD: 6.0%
+2026-01-14 11:48:00,301 - INFO - ============================================================
+2026-01-14 11:50:07,438 - INFO - 🛑 Signal qabul qilindi: 2
+2026-01-14 11:50:07,438 - INFO - 🧹 Cleanup boshlandi...
+2026-01-14 11:50:08,187 - INFO - 👋 Cleanup tugadi
+2026-01-14 11:50:08,188 - INFO - ✅ Dastur to'liq to'xtadi
