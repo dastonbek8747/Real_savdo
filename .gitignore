@@ -1,2 +1,18 @@
 .env
 .idea
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+# Environment
+.env.*
+!.env.example
+# IDE
+.idea/
+.vscode/
+# OS
+.DS_Store
